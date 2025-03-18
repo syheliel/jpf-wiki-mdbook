@@ -1,0 +1,10 @@
+[book]
+authors = ["JPF"]
+language = "en"
+multilingual = false
+src = "src"
+title = "JPF wiki"
+
+[output.html]
+
+[output.linkcheck]
