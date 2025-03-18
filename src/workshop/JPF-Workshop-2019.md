@@ -23,7 +23,7 @@ We solicit two types of submissions to be uploaded on [EasyChair/JPF2018](https:
 
 ## Important Dates
 
-  * **Submission**: July 29, 2019 (23:59:59pm [AoE]). Submit on [EasyChair/JPF2019](https://easychair.org/conferences/?conf=jpf2019).
+  * **Submission**: July 29, 2019 (23:59:59pm \[AoE\]). Submit on [EasyChair/JPF2019](https://easychair.org/conferences/?conf=jpf2019).
   * **Notification**: August 30th, 2019
   * **Camera Ready Version**: September 13th, 2019
   * **Workshop Date**: November 15th, 2019

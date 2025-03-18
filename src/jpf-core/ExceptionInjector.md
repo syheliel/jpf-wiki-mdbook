@@ -24,7 +24,7 @@ If more than one exception specification is given, these need to be separated by
 
 Method argument types have to be specified the same way as they are reported by 'javap', i.e. with fully qualified type names in dot notation (e.g. "`foo(java.lang.String,int[])`"). Return types can be omitted.  
 
-`ei.throw_first` [`boolean`] - if true, throw exception on first bytecode instruction associated with the given (absolute or relative) source line. If false, throw on last associated bytecode instruction
+`ei.throw_first` \[`boolean`\] - if true, throw exception on first bytecode instruction associated with the given (absolute or relative) source line. If false, throw on last associated bytecode instruction
  
 
 ## Examples ##

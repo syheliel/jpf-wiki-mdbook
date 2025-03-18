@@ -4,7 +4,7 @@ Java Pathfinder (JPF) is here again in 2011\. We are planning to participate wit
 
 ### Interested Students - Contact Us
 
-If you have any questions or suggestions regarding JPF and GSoC, email us at <**jpf.gsoc [at] gmail.com**>. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer any questions you may have about JPF and/or its potential projects. If you are interested in a project that is not listed here but is relevant to JPF, we would love to hear about it. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
+If you have any questions or suggestions regarding JPF and GSoC, email us at jpf.gsoc@gmail.com. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer any questions you may have about JPF and/or its potential projects. If you are interested in a project that is not listed here but is relevant to JPF, we would love to hear about it. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
 
 ### Timeline
 
@@ -40,7 +40,7 @@ Due to public demand we've added two topics that are suitable for JPF novices. Y
 
 ### Advanced Projects
 
-**This is not an exclusive list**! If you have variations, or other project ideas altogether, let us know on <jpf.gsoc [at] gmail.com> or the [<span class="icon">​</span>JPF Google Group](http://groups.google.com/group/java-pathfinder). The sooner, the better.
+**This is not an exclusive list**! If you have variations, or other project ideas altogether, let us know at jpf.gsoc@gmail.com or the [JPF Google Group](http://groups.google.com/group/java-pathfinder). The sooner, the better.
 
 1.  [Model Checking Android Applications](https://172.29.0.40/trac/jpf/wiki/events/soc2011#android) - use JPF to verify Android components
 2.  [Verifying Scala Applications](https://172.29.0.40/trac/jpf/wiki/events/soc2011#scala) - make JPF Scala aware

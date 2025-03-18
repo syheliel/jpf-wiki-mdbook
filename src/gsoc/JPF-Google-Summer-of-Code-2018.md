@@ -1,6 +1,6 @@
 This page is from 2018. In case you are looking for 2019:
 
-# [[JPF Google Summer of Code 2019]]
+# JPF Google Summer of Code 2019
 
 The Java Pathfinder (JPF) team is applying to the [Google Summer of Code](https://developers.google.com/open-source/gsoc/) (GSoC) program for 2018. The GSoC program, is a program where Google sponsors university students to write code for open source projects at selected mentoring organizations. Each student is guided by a mentor throughout the program. The length of the program is about three month, and it can be done remotely, and are generally fun. You can learn about the program rules and your eligibility [here](https://summerofcode.withgoogle.com/rules/).
 
@@ -16,7 +16,7 @@ You can learn more about JPF at the [JPF wiki](https://github.com/javapathfinder
 
 ## Interested Students - Contact Us ##
 
-You can find existing project ideas [here](GSoC-2018-Project-Ideas.md). If you are interested in a JPF related project which is not listed here, we would love to hear about it. If you have any questions or suggestions regarding JPF and GSoC, email us at \<jpf.gsoc [at] gmail.com\>. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer you questions about JPF and its potential projects. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
+You can find existing project ideas [here](./GSoC-2018-Project-Ideas.md). If you are interested in a JPF related project which is not listed here, we would love to hear about it. If you have any questions or suggestions regarding JPF and GSoC, email us at jpf.gsoc@gmail.com. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer you questions about JPF and its potential projects. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
 
 ## Timeline ##
 

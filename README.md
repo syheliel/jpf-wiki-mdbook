@@ -12,6 +12,7 @@ This repository contains the documentation for Java PathFinder (JPF), a software
 2. Install mdBook:
    ```bash
    cargo install mdbook
+   cargo install mdbook-lintcheck
    ```
 
 ## Building the Documentation

@@ -1,4 +1,4 @@
-## Ideas: [[GSoC 2023 Project Ideas]]
+## Ideas: GSoC 2023 Project Ideas
 
 The Java Pathfinder (JPF) team will apply again as a mentor organization for the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) program this year 2023.
 <!--The Java Pathfinder (JPF) team will be again a mentor organization for the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) program this year 2022.-->
@@ -18,7 +18,7 @@ You can learn more about JPF at the [JPF wiki](https://github.com/javapathfinder
 
 *Note that JPF has not been yet accepted for GSoC 2023 and that our [project ideas](https://github.com/javapathfinder/jpf-core/wiki/GSoC-2023-Project-Ideas) are still being extended and refined.*
 
-You can find existing project ideas on our [[GSoC 2023 Project Ideas]] page. If you are interested in a JPF related project which is not listed here, we would love to hear about it. If you have any questions or suggestions regarding JPF and GSoC, use our Google Group: https://groups.google.com/g/java-pathfinder.
+You can find existing project ideas on our [GSoC 2023 Project Ideas](./GSoC-2023-Project-Ideas.md) page. If you are interested in a JPF related project which is not listed here, we would love to hear about it. If you have any questions or suggestions regarding JPF and GSoC, use our Google Group: https://groups.google.com/g/java-pathfinder.
 Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer you questions about JPF and its potential projects.
 
 ## Timeline ##

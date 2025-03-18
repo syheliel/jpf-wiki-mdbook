@@ -1,6 +1,6 @@
 # Project Ideas
 
-Please note that this list is not exclusive. If you have other ideas and topics related to JPF, please let us know on \<jpf.gsoc [at] gmail.com\> or the [JPF Google group](https://groups.google.com/forum/#!forum/java-pathfinder).
+Please note that this list is not exclusive. If you have other ideas and topics related to JPF, please let us know at jpf.gsoc@gmail.com or the [JPF Google group](https://groups.google.com/forum/#!forum/java-pathfinder).
 
 ### JPF Infrastructure
 
@@ -211,12 +211,12 @@ The goal of this project is to add a new mode of operation to JDart, in which sy
 1. Existing programs can be analyzed without modifications. And analysis is not confined to individual methods. This will, e.g., enable JDart to analyze the Java programs in the SVCOMP benchmarks ([Injection Flaws](https://www.owasp.org/index.php/Top_10_2007-Injection_Flaws)).
 2. It is one step towards enabling using JDart for dynamic taint analysis, e.g., for analyzing potential for injection attacks ([Minepump](https://github.com/sosy-lab/sv-benchmarks/tree/master/java/MinePump)). Web-applications tend to contain code of form: 
 ```
-u = Request.getValueOf(“user”); //Taint u (symbolically) 
-query = “SELECT user FROM table WHERE uid=”+u; //query becomes tainted
+u = Request.getValueOf("user"); //Taint u (symbolically) 
+query = "SELECT user FROM table WHERE uid=" + u; //query becomes tainted
 query = santitize(query); //Un-taint query (symbolically.) 
 db.select(query);
 ```
-If the value of u is not properly analyzed and sanitized, an attacker can exploit this code to gain access to arbitrary information in the applications database. Making the return value of Request.getValueOf(“user”) symbolic, is the first step towards tracing taint of this value.
+If the value of u is not properly analyzed and sanitized, an attacker can exploit this code to gain access to arbitrary information in the applications database. Making the return value of Request.getValueOf("user") symbolic, is the first step towards tracing taint of this value.
 
 Please note: For a full dynamic taint analysis, JDart would also have to be extended to analyze strings and arrays symbolically --- this is out of the scope of this project.
 

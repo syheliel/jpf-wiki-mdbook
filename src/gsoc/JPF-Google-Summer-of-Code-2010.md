@@ -4,7 +4,7 @@ A word of caution though - JPF seems to stick. Although spread over the whole wo
 
 ### Interested Students - Contact Us
 
-If you have any questions or suggestions regarding JPF and GSoC, email us at <**jpf.gsoc [at] gmail.com**>. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer any questions you may have about JPF and/or its potential projects. If you are interested in a project that is not listed here but is relevant to JPF, we would love to hear about it. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
+If you have any questions or suggestions regarding JPF and GSoC, email us at jpf.gsoc@gmail.com. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer any questions you may have about JPF and/or its potential projects. If you are interested in a project that is not listed here but is relevant to JPF, we would love to hear about it. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
 
 ### Timeline
 
@@ -22,7 +22,7 @@ JPF is a serious system in its own right, and [running](https://172.29.0.40/trac
 
 ### Application Format
 
-If you contact us on <jpf.gsoc [at] gmail.com> please let us know who you are, what related experience you have, and especially which topics you are interested in. No fixed format required.
+If you contact us at jpf.gsoc@gmail.com please let us know who you are, what related experience you have, and especially which topics you are interested in. No fixed format required.
 
 **Please note** - you still have to submit your official application to Google on [<span class="icon">​</span>http://socghop.appspot.com](http://socghop.appspot.com) until April 9th, 2010.
 
@@ -40,7 +40,7 @@ Due to public demand we've added two topics that are suitable for JPF novices. Y
 
 ### Advanced Projects
 
-**This is not an exclusive list**! If you have variations, or other project ideas altogether, let us know on <jpf.gsoc [at] gmail.com> or the [<span class="icon">​</span>JPF Google Group](http://groups.google.com/group/java-pathfinder). The sooner, the better.
+**This is not an exclusive list**! If you have variations, or other project ideas altogether, let us know at jpf.gsoc@gmail.com or the [JPF Google Group](http://groups.google.com/group/java-pathfinder). The sooner, the better.
 
 1.  [Model Checking Android Applications](https://172.29.0.40/trac/jpf/wiki/events/soc2010#android) - use JPF to verify Android components
 2.  [Verifying Scala Applications](https://172.29.0.40/trac/jpf/wiki/events/soc2010#scala) - make JPF Scala aware
@@ -252,7 +252,7 @@ Program annotations are a mechanism for specifying information, e.g., properties
 
 #### Confirm Warnings
 
-Existing techniques for software verification can be broadly classified into two major categories: dynamic and static. Dynamic verification techniques suffer from scalability issues when applied to large applications. On the other hand, static verification techniques, despite scalable, suffer from a large number of false warnings due to their conservative nature. Therefore, an ideal approach is to statically detect violations and dynamically confirm those violations. This project borrows ideas from existing approaches such as Check ‘n’ Crash, and involves developing new techniques in JPF to prune states that do not help in dynamically confirming the statically detected violations.
+Existing techniques for software verification can be broadly classified into two major categories: dynamic and static. Dynamic verification techniques suffer from scalability issues when applied to large applications. On the other hand, static verification techniques, despite scalable, suffer from a large number of false warnings due to their conservative nature. Therefore, an ideal approach is to statically detect violations and dynamically confirm those violations. This project borrows ideas from existing approaches such as Check 'n' Crash, and involves developing new techniques in JPF to prune states that do not help in dynamically confirming the statically detected violations.
 
 * * *
 

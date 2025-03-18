@@ -1,4 +1,4 @@
-## Ideas: [[GSoC 2020 Project Ideas]]
+## Ideas: GSoC 2020 Project Ideas
 
 The Java Pathfinder (JPF) team is a mentor organization for the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) program for 2020. The GSoC program, is a program where Google sponsors university students to write code for open source projects at selected mentoring organizations. Each student is guided by a mentor throughout the program. The length of the program is about four months, and it can be done remotely, and it is generally fun. You can learn about the program rules and your eligibility [here](https://summerofcode.withgoogle.com/rules/).
 
@@ -14,7 +14,7 @@ You can learn more about JPF at the [JPF wiki](https://github.com/javapathfinder
 
 ## Interested Students - Contact Us ##
 
-You can find existing project ideas on our [[GSoC 2020 Project Ideas]] page. If you are interested in a JPF related project which is not listed here, we would love to hear about it. If you have any questions or suggestions regarding JPF and GSoC, email us at \<jpf.gsoc [at] gmail.com\>. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer you questions about JPF and its potential projects. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
+You can find existing project ideas on our [GSoC 2020 Project Ideas](./GSoC-2020-Project-Ideas.md) page. If you are interested in a JPF related project which is not listed here, we would love to hear about it. If you have any questions or suggestions regarding JPF and GSoC, email us at jpf.gsoc@gmail.com. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer you questions about JPF and its potential projects. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
 
 ## [Timeline](https://summerofcode.withgoogle.com/how-it-works/#timeline) ##
 
