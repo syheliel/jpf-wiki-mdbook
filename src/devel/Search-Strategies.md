@@ -19,8 +19,7 @@ There are three key methods of the VM employed by the Search component:
   * `backtrack` - restore the last state on the backtrack stack
   * `restoreState` - restore an arbitrary state (not necessarily on the backtrack stack)
 
-![Figure: JPF top-level design](https://github.com/javapathfinder/jpf-core/blob/master/docs/graphics/jpf-abstractions.svg){align=center width=720}
-
+![Figure: JPF top-level design](https://raw.githubusercontent.com/javapathfinder/jpf-core/refs/heads/master/docs/graphics/jpf-abstractions.svg)
 ## Search Strategy ##
 
 At any state, the Search component is responsible for selecting the next state from which the VM should proceed, either by directing the VM to generate the next state (`forward`), or by telling it to backtrack to a previously generated one (`backtrack`). The Search component works as a driver for the VM.
