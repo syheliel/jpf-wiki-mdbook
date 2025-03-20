@@ -19,6 +19,6 @@ This not only makes JPF a suitable system for research, but chances are that if 
      - [Reporting system](Reporting-System.md)
  * [Running JPF from within your application](Running-JPF-from-application.md)
  * [Writing JPF tests](Writing-JPF-tests.md)
- * [Coding conventions](Coding-Convention.md)
+ * [Coding conventions](./Coding-convention.md)
  * [Hosting an Eclipse plugin update site](Host-Eclipse-plugin-update-site.md) 
 

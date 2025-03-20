@@ -67,11 +67,11 @@ This is the main page for Java™ Pathfinder (JPF). JPF is an extensible softwar
 *  05/08/2018 [JPF Workshop 2018](https://2018.fseconference.org/track/jpf-2018-papers) will be co-located with [FSE 2018](https://conf.researchr.org/home/fse-2018) in Lake Buena Vista, FL. Please consider submitting a paper.
 *  01/23/2018 The JPF team is applying to the [GSoC](https://developers.google.com/open-source/gsoc/) program for 2018. To learn more, please visit the [JPF/GSoC](gsoc/JPF-Google-Summer-of-Code-2018.md) page.
 *  05/01/2017 [JPF Workshop 2017](./workshop/workshop-2017/JPF-Workshop-2017.md) will be co-located with [ASE 2017](http://ase2017.org) in Champaign, IL. Please consider submitting a paper.
-*  02/27/2017 JPF got accepted for [GSoC 2017](https://summerofcode.withgoogle.com/organizations/5314871315922944/). Please visit our [ideas page](gsoc/JPF-and-Google-Summer-of-Code-2017-Project-Ideas.md), and let us know if you have a topic in mind.
-*  01/19/2017 The JPF team is applying to the [GSoC](https://developers.google.com/open-source/gsoc/) program for 2017. To learn more, please visit the [JPF/GSoC](gsoc/Google-Summer-of-Code-2017.md) page.
+*  02/27/2017 JPF got accepted for [GSoC 2017](https://summerofcode.withgoogle.com/organizations/5314871315922944/). Please visit our [ideas page](gsoc/gsoc-2017/JPF-and-Google-Summer-of-Code-2017-Project-Ideas.md), and let us know if you have a topic in mind.
+*  01/19/2017 The JPF team is applying to the [GSoC](https://developers.google.com/open-source/gsoc/) program for 2017. To learn more, please visit the [JPF/GSoC](gsoc/gsoc-2017/JPF-and-Google-Summer-of-Code-2017-Project-Ideas.md) page.
 *  06/01/2016 [JPF Workshop 2016](./workshop/workshop-2016/JPF-Workshop-2016.md) will be co-located with [FSE 2016](http://www.cs.ucdavis.edu/fse2016/) in Seattle, WA, on November 18, 2016. Please consider submitting a paper.
 *  04/22/2016 JPF student proposals accepted for GSoC 2016 [announced](https://summerofcode.withgoogle.com/organizations/5791763432210432/#projects) - Congratulations to the students!
-*  02/29/2016 JPF got accepted for [GSoC 2016](https://summerofcode.withgoogle.com/organizations/5791763432210432/). Please visit our [ideas page](gsoc/Google-Summer-of-Code-2016-Project-Ideas.md), and let us know if you would like to propose a project.
+*  02/29/2016 JPF got accepted for [GSoC 2016](https://summerofcode.withgoogle.com/organizations/5791763432210432/). Please visit our [ideas page](gsoc/gsoc-2016/Google-Summer-of-Code-2016-Project-Ideas.md), and let us know if you would like to propose a project.
 <details close>
 <summary>Old news</summary>
 <ul>

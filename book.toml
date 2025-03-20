@@ -6,5 +6,6 @@ src = "src"
 title = "JPF wiki"
 
 [output.html]
+additional-css = ["css/custom.css"]
 
 [output.linkcheck]
