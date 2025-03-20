@@ -31,7 +31,10 @@
     - [Understanding JPF output](user/Understanding-JPF-output.md)
     - [Using JPF's Verify API](user/Verify-API-of-JPF.md)
     - [Randomization options in JPF](user/config/Randomization-options-in-JPF.md)
-
+    - [Running JPF from Eclipse with eclipse-jpf plugin](user/Run-JPF-using-Eclipse.md)
+    - [Running JPF from Eclipse without plugin](user/Run-JPF-using-eclipse-jpf.md)
+    - [Running JPF from within NetBeans with netbeans-jpf plugin](user/Run-JPF-with-NetBeans-plugin.md)
+    - [Running JPF from within NetBeans without JPF plugin](user/Run-JPF-using-NetBeans.md)
 # Developer Guide
 - [Developer guide](devel/Developer-guide.md)
     - [Top-level design](devel/Search-Strategies.md)
@@ -54,6 +57,7 @@
     - [set up JPF projects](devel/create_project.md)
     - [JPF Runtime Modules](devel/modules.md)
     - [Reporting system](devel/Reporting-System.md)
+    - [Embedding JPF](devel/Embedded-JPF.md)
 
 # Core Project
 - [JPF core project](jpf-core/JPF-core.md)
