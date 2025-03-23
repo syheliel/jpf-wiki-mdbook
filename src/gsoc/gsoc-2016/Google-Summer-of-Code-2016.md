@@ -12,7 +12,7 @@ To learn more about JPF, refer to the [JPF Wiki](http://babelfish.arc.nasa.gov/t
 
 ## Interested Students - Contact Us ##
 
-You can find some project ideas [here](wiki:projects/projects). If you are interested in a project that is not listed here but is relevant to JPF, we would love to hear about it. If you have any questions or suggestions regarding JPF and GSoC, email us at \<jpf.gsoc [at] gmail.com\>. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer you questions about JPF and its potential projects. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
+You can find some project ideas [here](wiki:projects/projects). If you are interested in a project that is not listed here but is relevant to JPF, we would love to hear about it. If you have any questions or suggestions regarding JPF and GSoC, email us at \<jpf.gsoc@gmail.com\>. Please be sure to describe your interests and background. The more we know about you, the better we will be able to answer you questions about JPF and its potential projects. Join our IRC channel #jpf on freenode to engage in a discussion about all things JPF.
 
 ## Timeline ##
 

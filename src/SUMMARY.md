@@ -47,7 +47,7 @@
         - [Search Strategies](devel/Search-Strategies.md)
         - [Model Java Interface (MJI)](devel/Model-Java-Interface.md)
         - [Bytecode Factories](devel/Bytecode-Factories.md)
-    - [Common utilities](devel/Common-utilities.md)
+    - [Common utilities]()
         - [Logging system](devel/Logging-system.md)
         - [Reporting system](devel/Reporting-System.md)
     - [Running JPF from within your application](devel/Running-JPF-from-application.md)
